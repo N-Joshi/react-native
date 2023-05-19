@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react_native",
+    "slug": "react_native",
+    "ios": {
+      "bundleIdentifier": "com.myapp"
+    },
+    "android": {
+      "package": "com.myapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "31ae16f9-237f-4d67-9d52-062a68204e87"
+      }
+    }
+  }
+}
